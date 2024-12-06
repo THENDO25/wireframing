@@ -59,3 +59,33 @@ Content placement refers to the positioning of text, images, and other media on 
 refers to the interactive elements of the product, such as buttons, forms, and animations To create an engaging and usable product that meets the user's needs. 
 
 **Examples:** - Clickable buttons and links - Form fields and validation - Hover and animation
+
+# Types of Wireframes
+
+## Low-Fidelity Wireframes
+**Definition:** Low-fidelity wireframes are simple, rough sketches that represent the basic structure and layout of a web page or application. They are typically created using basic shapes and lines, without detailed design elements or content.
+
+**Purpose:** Low-fidelity wireframes are used to quickly communicate ideas and concepts, allowing for rapid iteration and feedback. They help in identifying the overall layout and structure without getting bogged down in details.
+
+**When to Use:** Low-fidelity wireframes are typically used in the early stages of the design process when brainstorming and exploring different layout options. They are useful for initial discussions with stakeholders and team members to ensure everyone is on the same page.
+
+**Examples:**
+- Hand-drawn sketches on paper or whiteboards
+- Basic digital wireframes created using tools like Balsamiq or Sketch
+
+## High-Fidelity Wireframes
+**Definition:** High-fidelity wireframes are detailed and polished representations of a web page or application. They include more precise design elements, such as typography, colors, and images, and often incorporate interactive elements.
+
+**Purpose:** High-fidelity wireframes are used to provide a more accurate and realistic representation of the final product. They help in refining the design, testing usability, and gathering detailed feedback from stakeholders and users.
+
+**When to Use:** High-fidelity wireframes are typically used in the later stages of the design process when the overall layout and structure have been finalized. They are useful for usability testing, client presentations, and as a reference for developers during the implementation phase.
+
+**Examples:**
+- Detailed digital wireframes created using tools like Adobe XD, Figma, or Axure
+- Interactive prototypes that simulate user interactions and navigation
+
+## Conclusion: 
+The wireframe in the link is a high fedility because it includes more precise design elements such as typography, colors and images and it is created using tools like figma
+
+
+
