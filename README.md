@@ -36,13 +36,26 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 ### 8. Focuses on Functionality and User Experience:
 
 * By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
-## Key Elements in a Wireframe
+## Key Elements of a Wireframe 
 
-* Layout Structure: Defines the arrangement of elements on the page.
-* Navigation: Shows how users will move through the site or application.
-* Content Placement: Indicates where text, images, and other content will be positioned.
-* Functionality: Outlines key functionalities and interactions.
-  
-## Types of Wireframes
-* Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
-* High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+### 1. Layout Structure
+The layout structure refers to the overall organization and arrangement of elements on the page To create a clear and logical visual hierarchy that guides the user's attention.
+
+**Examples:** - Header and footer sections - Columns and grids - White space and padding 
+
+### 2. Navigation 
+Navigation refers to the elements that allow users to move through the product, such as menus, buttons, and links.
+To provide a clear and consistent way for users to access different parts of the product. 
+
+**Examples:** - Top navigation bars - Side menus - Breadcrumbs 
+
+### 3. Content Placement 
+Content placement refers to the positioning of text, images, and other media on the page To create a clear and readable visual flow that communicates the product's message. 
+
+**Examples:** - Headings and subheadings - Image placement and sizing - Text alignment and spacing 
+
+###Functionality
+
+refers to the interactive elements of the product, such as buttons, forms, and animations To create an engaging and usable product that meets the user's needs. 
+
+**Examples:** - Clickable buttons and links - Form fields and validation - Hover and animation
