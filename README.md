@@ -87,5 +87,24 @@ refers to the interactive elements of the product, such as buttons, forms, and a
 ## Conclusion: 
 The wireframe in the link is a high fedility because it includes more precise design elements such as typography, colors and images and it is created using tools like figma
 
+# Popular Wireframing Tools
+
+## Figma
+**Overview:** Figma is a powerful and versatile design tool that is widely used for wireframing, prototyping, and collaborative design. It is a cloud-based platform that allows designers to work together in real-time, making it an excellent choice for teams.
+
+**Features:**
+- **Real-Time Collaboration:** Figma enables multiple designers to work on the same project simultaneously, making it easy to share ideas and feedback in real-time.
+- **Vector Networks:** Figma's vector network technology allows for more flexible and precise vector editing, making it easier to create complex shapes and designs.
+- **Prototyping:** Figma includes built-in prototyping tools that allow designers to create interactive prototypes and test user flows without needing to switch to another tool.
+- **Design Systems:** Figma supports the creation and management of design systems, allowing teams to maintain consistency across projects.
+- **Cross-Platform:** Figma is available on both Mac and Windows, and its cloud-based nature means that designs can be accessed from any device with an internet connection.
+
+**Why It's Useful for Wireframing:**
+- **Ease of Use:** Figma's intuitive interface and powerful features make it easy to create wireframes quickly and efficiently.
+- **Collaboration:** The real-time collaboration features make it ideal for teams, allowing for seamless communication and feedback.
+- **Flexibility:** Figma's vector editing capabilities and prototyping tools provide the flexibility needed to create both low-fidelity and high-fidelity wireframes.
+- **Accessibility:** Being cloud-based, Figma ensures that your designs are always accessible, and you can work from anywhere.
+
+
 
 
